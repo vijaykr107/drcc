@@ -9,23 +9,27 @@ function App() {
   }
   return (
     <div>
-      <h2>DRCC CHHAPIYA ALL TIME PLAYING X!</h2>
+      <h2>DRCC CHHAPIYA ALL TIME GREATEST CRICKETER </h2>
       <button onClick={handlebutton}
       
       className='btn-hover'>click here please</button>
       {showtext && <ol>
         <li>DHARMENDRA PRASAD (C)</li>
         <li>PAWAN MAURYA (TUNA)</li>
-        <li>SANTA JI😪</li>
-        <li>SUGREEV KUMAR😪</li>
+        <li>SANTA JI🙏🙏</li>
+        <li>SUGREEV KUMAR🙏🙏</li>
         <li>SANDIP Sah </li>
         <li>MANTU YADAV</li>
         <li>BASANT GUPTA(VC)</li>
-        <li>KAMLESH KUMAR</li>
+        <li>SACHIN PANDEY</li>
         <li>KRISHNA YADAV</li>
-        <li>SANDEEP SAH</li>
+        <li>KAMLESH KUMARY</li>
         <li>ALAKH NIRANJAN</li>
-        <li>JAVED Ali</li>
+        <li>SAURABH BALISTER</li>
+        <li>TINKU KUMAR</li>
+        <li>CHANDAN YADAV</li>
+        <li>JAVED ALI</li>
+      
         
         
         </ol>}
